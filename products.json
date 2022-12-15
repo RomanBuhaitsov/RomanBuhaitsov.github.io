@@ -1,0 +1,38 @@
+{
+    "products": [
+        {
+            "name":"Tennis rocket",
+            "category": {
+                "$ref" : "#/categories/SportTools"
+            },
+            "description": "For hitting tennis ball",
+            "price": 79.99
+        },
+        {
+            "name":"Tennis rocket",
+            "category": {
+                "$ref" : "#/categories/SportTools"
+            },
+            "description": "For hitting tennis ball",
+            "price": 79.99
+        },
+        {
+            "name":"Tennis rocket",
+            "category": {
+                "$ref" : "#/categories/SportTools"
+            },
+            "description": "For hitting tennis ball",
+            "price": 79.99
+        }
+    ],
+    "categories":{ 
+        "SportTools": {
+            "name": "Sport Tools",
+            "description": "For fun and entertainment"
+        },
+        "BuildingTools": {
+            "name": "Building Tools",
+            "description": "Not for fun and entertainment"
+        }
+    }
+}
