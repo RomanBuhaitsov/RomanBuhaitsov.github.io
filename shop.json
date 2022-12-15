@@ -9,20 +9,20 @@
             "price": 79.99
         },
         {
-            "name":"Tennis rocket",
+            "name":"Tennis ball",
             "category": {
                 "$ref" : "#/categories/SportTools"
             },
-            "description": "For hitting tennis ball",
-            "price": 79.99
+            "description": "For being hit by tennis rocket",
+            "price": 4.99
         },
         {
-            "name":"Tennis rocket",
+            "name":"Hammer",
             "category": {
-                "$ref" : "#/categories/SportTools"
+                "$ref" : "#/categories/BuildingTools"
             },
-            "description": "For hitting tennis ball",
-            "price": 79.99
+            "description": "For hitting",
+            "price": 29.99
         }
     ],
     "categories":{ 
