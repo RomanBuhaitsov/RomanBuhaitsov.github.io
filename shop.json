@@ -17,6 +17,14 @@
             "price": 4.99
         },
         {
+            "name":"Boxing gloves",
+            "category": {
+                "$ref" : "#/categories/SportTools"
+            },
+            "description": "For hitting people",
+            "price": 69.99
+        },
+        {
             "name":"Hammer",
             "category": {
                 "$ref" : "#/categories/BuildingTools"
